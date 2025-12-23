@@ -1,0 +1,5 @@
+{
+  "name": "PromptAssistant",
+  "description": "Un estudio de IA premium impulsado por el modelo Nano Banana (Gemini 2.5 Flash Image). Genera imágenes impresionantes o edita fotos existentes con simples instrucciones de texto.",
+  "requestFramePermissions": []
+}
